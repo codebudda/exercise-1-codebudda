@@ -1,4 +1,4 @@
-package com.serenitydojo.exercise5;
+package com.serenitydojo.exercise4;
 
 public class Cat {
     private String name;
